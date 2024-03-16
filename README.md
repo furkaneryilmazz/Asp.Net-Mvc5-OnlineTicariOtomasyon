@@ -1,5 +1,5 @@
 # Asp.Net Mvc5 Online Ticari Otomasyon
-## Online Commercial Automation
+## Online Ticari Otomasyon
 
 ![Adsız tasarım](https://github.com/furkaneryilmazz/Asp.Net-Mvc5-OnlineTicariOtomasyon/assets/133990378/1e90db31-9908-492a-b8f6-8b1647a145d9)
 
